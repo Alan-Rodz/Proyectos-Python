@@ -1,6 +1,7 @@
 #Hecho siguiendo un tutorial que puede ser encontrado en https://www.youtube.com/watch?v=XGf2GcyHPhc&t=2739s
 #bounce.wav puede ser encontrado en este link https://mega.nz/#!lg0VCZ5J!RieIOzaSD3aembVCTumQVc6sSoULYqtC1tnbnGMUlBM
 #bounce.wav no me pertenece
+#Versión sencilla del juego Pong
 
 import turtle
 import winsound

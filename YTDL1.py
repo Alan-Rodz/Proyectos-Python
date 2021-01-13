@@ -1,5 +1,5 @@
 import pytube
-
+ 
 url = input("Dame la url que quieres usar. El video sera descargado al escritorio.\n")
 
 video = pytube.YouTube(url)

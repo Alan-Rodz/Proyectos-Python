@@ -1,5 +1,6 @@
 import subprocess
-
+#Este script nos da las contraseñas de los wifi guardados en la pc donde se ejecuta
+    
 #Recuperamos la informacion de las redes
 informacion = subprocess.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8').split('\n')
 

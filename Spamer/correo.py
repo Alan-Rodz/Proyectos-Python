@@ -64,7 +64,7 @@ def enviarCorreo(usuario, contraseña, destinatario, tema, mensaje):
 
     #Enviamos el correo
     servidor.sendmail(usuario, destinatario, texto)
-
+ 
 #Aquí escribimos la cantidad de veces que queremos enviar el correo
 for i in range(3):
     enviarCorreo(usuario, contraseña, destinatario, tema, mensaje)

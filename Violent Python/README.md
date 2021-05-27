@@ -1,4 +1,4 @@
-Programas del libro "Violent Python" de TJ O'Connor en Python3
+Programas del libro "Violent Python" de TJ O'Connor en Python3 
 
 
 El código sólo se hizo más legible en español, y se agregaron comentarios de qué hace cada programa.

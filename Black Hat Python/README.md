@@ -1,4 +1,4 @@
-Programas del libro "Black Hat Python" de Justin Seitz en Python3
+Programas del libro "Black Hat Python" de Justin Seitz en Python3 
 
 El libro está disponible en Internet Archive: https://archive.org/details/pdfy-rJnW-pPgiHK61dok/
 
